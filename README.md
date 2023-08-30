@@ -5,4 +5,4 @@
 
 ### SKILLS AND EXPERIENCE
 
-* 💻 HTML / CSS / JAVASCRIPT / REACT
+* 💻 HTML / CSS / JAVASCRIPT / REACT (Hooks, custom Hooks, class-Based Components Advanced Redux, React Router, Next.js, TypeScript, React Query, User forms & Authentication, Fetching Backend Http Data Handling Side Effects, Debbuging React Apps, Animating, Aplication Deployment))
