@@ -3,9 +3,7 @@
 
 ### Hi, I'm Facundo from Uruguay, I'm a front-end Software Developer, currently learing React.js. I'm looking forward to get a job as a software engineer.
 
-### SKILLS AND EXPERIENCE
-
-* 💻
+### * 💻 SKILLS AND EXPERIENCE
   
 * HTML / CSS: (Floats, FlexBox, CSS Grid, Web Design Rules & Framework, Components and Layout Patterns, Setup and Desktop Version, Responsive Web Design, Effects, Optimizations, Deployment)
 
