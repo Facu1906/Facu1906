@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Facundo Franco
 ## Software Engineer
 
-### I'm from Uruguay, I'm a front-end Software Developer. I'm looking forward to get a job as a software engineer.
+### I'm from Uruguay, I have great skills with front-end Software Developer. I'm looking forward to get a job as a software engineer.
 
 ### 💻  SKILLS AND EXPERIENCE
 
