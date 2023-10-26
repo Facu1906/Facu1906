@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Facundo Franco
 ## Software Engineer
 
-## CV: file:///Users/facundofranco/Downloads/(English)%20Facundo%20Franco%20Resume%20(1).pdf
+## CV: [Uploading (English) Facundo Franco Resume (1).pdf…]()
+
 
 ### I'm from Uruguay, I have great skills developing front-end Software. I'm looking forward to get a job as a software engineer.
 
