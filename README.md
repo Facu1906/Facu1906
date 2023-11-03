@@ -1,7 +1,8 @@
 # Hi there 👋, I'm Facundo Franco
 ## Software Engineer
 
-## CV: [(English) Facundo Franco Resume (1).pdf](https://github.com/Facu1906/Presentation/files/13178499/English.Facundo.Franco.Resume.1.pdf)
+## CV: [(English) Facundo Franco Resume (1).pdf](https://github.com/Facu1906/Presentation/files/13250658/English.Facundo.Franco.Resume.1.pdf)
+
 
 
 
