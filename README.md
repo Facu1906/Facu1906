@@ -7,7 +7,7 @@
 
 
 
-### I'm from Uruguay, I have great skills developing front-end Software. I'm looking forward to get a job as a software engineer.
+### I'm from Uruguay, I have great skills developing full end to end web interfaces. I'm looking forward to get a job as a developer.
 
 ### 💻  SKILLS AND EXPERIENCE
 
