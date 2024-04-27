@@ -19,4 +19,4 @@
 
 * REACT: (Hooks, custom Hooks, (Fragments, Portals, Refs), sending HTTP Requests connecting to Database, class-Based Components Advanced Redux, React Router, Next.js, TypeScript, React Query, User Forms & Inputs, Web Optimization Techniques, App Authentication, Node.Js, Fetching Backend Http Data, Handling Side Effects, Express, Debbuging React Apps, Working with localStorage, NPM, Animating, MongoDB Aplication Deployment, Testing React Apps, Automated Testing, Jest))
 
-* NODE.JS: (Express.js, Dynamic Content & Adding Templating Engines, The Model View Controlller, Dynamic Routes & Advanced Model, SQL, Sequalize, Working with MongoDB & Mongoose, Sessions & Cookies, Authentication, Validation, etc..., Working with rest APIs, GraphQL  )
+* NODE.JS: (Express.js, Dynamic Content & Adding Templating Engines, The Model View Controller, Dynamic Routes & Advanced Model, SQL, Sequalize, Working with MongoDB & Mongoose, Sessions & Cookies, Authentication, Validation, etc..., Working with rest APIs, GraphQL  )
