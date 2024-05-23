@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Facundo Franco
 ## FullStack Developer
 
-## CV: [Facundo Franco Resume (1).pdf](https://github.com/Facu1906/Presentation/files/14853470/Facundo.Franco.Resume.1.pdf)
+## CV:
 
 
 
